@@ -25,7 +25,7 @@ public class App {
                     // delete employee
                     break;
                 case 3:
-                    // displayEmployee();
+                    displayEmployee();
                     break;
                 case 4:
                     // Display all employees
